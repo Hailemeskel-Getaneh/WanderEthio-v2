@@ -1,0 +1,6 @@
+# Ignore build artifacts or compiled code (if applicable)
+/dist/
+/build/
+
+# Ignore dependencies
+/node_modules/
